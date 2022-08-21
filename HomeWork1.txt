@@ -1,0 +1,4 @@
+GitHub is a collaborative interface that allows programmers to code and work together. 
+It is used to host open source projects. It allows us to control and manage our code. 
+Different people can make changes to the same code at the same time. 
+In github the files are stored in a folder which is called as repository.

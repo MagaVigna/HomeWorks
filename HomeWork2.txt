@@ -1,0 +1,9 @@
+Step 1: Start the program.
+Step 2: Intialise neccessary variables and intialise a variable count=0
+Step 3: Create a array count with size equal to the size of the input str[].
+Step 4: Initialize all elements of count[] to 0.
+Step 5: Accumulate oocurence of each character in the input str.
+Step 6: traverse 'str' from left to right.
+Step 7: if occurence of character str[i] is not equal to 0 print the character along with its count.
+Step 8: update frequency of str[i] to 0.
+Step 9: Stop the program.
